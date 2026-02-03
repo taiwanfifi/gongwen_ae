@@ -1,17 +1,52 @@
 [
   {
-    "doc_id": "670bf4a9",
-    "content_similarity": 0.966848611831665,
-    "rules_similarity": 0.9903731942176819
+    "doc_id": "51806545",
+    "content_similarity": 0.940474271774292,
+    "rules_similarity": 0.9928521513938904
   },
   {
-    "doc_id": "2a569d14",
-    "content_similarity": 0.9788919687271118,
-    "rules_similarity": 0.9540266394615173
+    "doc_id": "585844f1",
+    "content_similarity": 0.997817873954773,
+    "rules_similarity": 0.9969127178192139
   },
   {
-    "doc_id": "76b6ab1b",
-    "content_similarity": 0.9859956502914429,
-    "rules_similarity": 0.9291737079620361
+    "doc_id": "febee0b7",
+    "content_similarity": 0.966175377368927,
+    "rules_similarity": 0.9819366931915283
+  },
+  {
+    "doc_id": "d36206b4",
+    "content_similarity": 0.9687021970748901,
+    "rules_similarity": 0.9415127635002136
+  },
+  {
+    "doc_id": "9ceb8672",
+    "content_similarity": 0.9631858468055725,
+    "rules_similarity": 0.9921528697013855
+  },
+  {
+    "doc_id": "2be1ad2d",
+    "content_similarity": 0.9472472667694092,
+    "rules_similarity": 0.9736618995666504
+  },
+  {
+    "doc_id": "0be9327d",
+    "content_similarity": 0.9551864862442017,
+    "rules_similarity": 0.9917020797729492
+  },
+  {
+    "doc_id": "538515e8",
+    "content_similarity": 0.9606528878211975,
+    "rules_similarity": 0.9846582412719727
+  },
+  {
+    "doc_id": "961749d5",
+    "content_similarity": 0.97897869348526,
+    "rules_similarity": 0.9831054210662842
+  },
+  {
+    "doc_id": "2391f6b0",
+    "content_similarity": 0.9726139903068542,
+    "rules_similarity": 0.9940332770347595
   }
 ]
