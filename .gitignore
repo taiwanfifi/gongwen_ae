@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files (exclude from git)
+SFT_data.json
+*.pkl
+*.h5
+*.pt
+*.bin
+
+# Export files
+*_export.txt
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated data (keep structure, exclude content to reduce repo size)
+data/generated/*.json
+data/encoded/*.json
+data/decoded/*.json
+
+# Keep results for reproducibility (uncomment to exclude)
+# data/results/**/*.csv
+# data/results/**/*.json

@@ -1,0 +1,2 @@
+doc_id,rule_adherence,structural_match,semantic_similarity,content_accuracy,content_preservation,format_compliance,weighted_total
+6784754f,0.7778,1.0000,0.8865,0.8477,0.6000,1.0000,0.8459

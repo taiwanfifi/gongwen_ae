@@ -1,0 +1,4 @@
+doc_id,rule_adherence,structural_match,semantic_similarity,content_accuracy,content_preservation,format_compliance,weighted_total
+abl_rules_35066141,0.6250,0.8333,0.6608,0.4156,0.2000,0.8000,0.5631
+abl_rules_01009894,0.7778,1.0000,0.7379,0.4283,0.2000,0.8000,0.6213
+abl_rules_9e569626,0.8571,0.8333,0.6873,0.3854,0.2000,0.8000,0.5957

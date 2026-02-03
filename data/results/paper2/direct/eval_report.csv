@@ -1,0 +1,4 @@
+doc_id,rule_adherence,structural_match,semantic_similarity,content_accuracy,content_preservation,format_compliance,weighted_total
+direct_670bf4a9,1.0000,0.8333,0.8778,0.7393,0.2000,1.0000,0.7737
+direct_2a569d14,1.0000,0.8333,0.8637,0.8307,0.4000,0.8000,0.7938
+direct_76b6ab1b,0.8889,1.0000,0.8747,0.8227,0.4000,1.0000,0.8239
