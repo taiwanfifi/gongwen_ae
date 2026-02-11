@@ -54,8 +54,8 @@ SFT_data.json
 .env
 .env.local
 
-# Files containing API keys / credentials
-REF_vastai_cli.md
+# REF files — internal reference docs (confidential, do not push)
+REF_*.md
 
 # Jupyter
 .ipynb_checkpoints/
