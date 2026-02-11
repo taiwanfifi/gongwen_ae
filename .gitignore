@@ -54,6 +54,9 @@ SFT_data.json
 .env
 .env.local
 
+# Files containing API keys / credentials
+REF_vastai_cli.md
+
 # Jupyter
 .ipynb_checkpoints/
 
